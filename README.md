@@ -7,5 +7,5 @@ A source code for converting ShEx EntitySchemas into SPARQL queries for identify
 This repository proposes a source code for converting ShEx EntitySchemas into SPARQL queries for identifying the Wikidata items to be considered.
 
 ## Dependencies
-* SPARQLWrapper
-* Requests
+* [SPARQLWrapper](https://pypi.org/project/SPARQLWrapper/)=2.0.0
+* [Requests](https://pypi.org/project/requests/)=2.31.0
